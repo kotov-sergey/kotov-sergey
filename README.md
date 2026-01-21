@@ -1,4 +1,4 @@
-## Hi there, I'm Sergey 👋
+Hi there, I'm Sergey 👋
 
 I am a beginner developer learning new technologies and ways to create high-quality products.
 
