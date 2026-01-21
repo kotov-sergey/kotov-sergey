@@ -3,7 +3,7 @@
 I am a beginner developer learning new technologies and ways to create high-quality products.
 
 🔭 **I’m currently working on**:
-- [Airliner](https://github.com/wordpress-theme-airliner) – Custom theme for the Civil Aviation Encyclopedia.
+- [Airliner](https://github.com/wordpress-theme-airliner) – Custom WordPress theme for the Civil Aviation Encyclopedia.
 
 🛠️ **My tech stack:**
 - **CMS:** WordPress (Custom Theme Development)
