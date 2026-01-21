@@ -12,7 +12,7 @@ I am a beginner developer learning new technologies and ways to create high-qual
 - **Tools:** Git, VS Code
 
 🌱 **I’m currently learning:**
-- PHP / JS
+- PHP, JS
 
 📫 **How to reach me:**
 - Email: kotovsergey.dev@gmail.com
