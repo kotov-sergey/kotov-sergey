@@ -13,7 +13,7 @@ I am a beginner developer learning new technologies and ways to create high-qual
 
 🌱 **I’m currently learning:**
 - **Modern WordPress Ecosystem:** Integrating Vite bundler with PHP themes.
-- **Custom Theme Development:** Building themes from scratch without page builders (No-Code tools).
+- **Custom Theme Development:** Building themes from scratch without page builders.
 
 📫 **How to reach me:**
 - Email: kotovsergey.dev@gmail.com
